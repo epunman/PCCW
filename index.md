@@ -17,10 +17,10 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Clean water is a human right
-textline: |
-  Belkirk College of Engineering
+textline: |-
+  Portage County for Clean Water
 
-  Ora et Labora
+  Clean water is a human right
 hero_button:
   text: Learn more
   href: "/about"
