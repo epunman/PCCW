@@ -12,5 +12,8 @@ services: []
 show_news: false
 partners: []
 show_staff: false
+menu:
+  footer:
+    weight: 3
 
 ---
