@@ -1,6 +1,6 @@
 ---
 heading: Events
-sub_heading: Events
+sub_heading: ''
 layout: home
 title: Events
 banner_image: "/uploads/2022/07/13/kayak.jpg"
