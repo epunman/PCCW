@@ -27,10 +27,10 @@ sections:
 - type: directory
   path: _events
   label: Events
-  create: all
+  create: documents
   match: "*"
   templates:
-  - project
+  - event
 - type: document
   path: _data/information.yml
   label: Contact Information
