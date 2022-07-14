@@ -16,8 +16,8 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Clean water is a human right
-textline: Clean water is a human right
+sub_heading: Clean Water is a Human Right
+textline: Clean Water is a Human Right
 hero_button:
   text: Learn more
   href: "/about"
