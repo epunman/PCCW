@@ -19,3 +19,4 @@ menu:
     weight: 3
 
 ---
+Events go here
